@@ -1,2 +1,23 @@
-# gspintax
-Groovy spintax parser for language generation
+# GSpintax
+![](https://img.shields.io/github/issues/oasic/gspintax.svg)
+
+*Groovy spintax parser for language generation*
+
+This method can be simply copied into your existing project as a simple way to add spintax parsing or spinning to your application. While spinning has a negative connotation due to its usage in spam, it's very useful for quickly generating many permutations of text for projects involving language generation. 
+
+## Example Usage
+
+`println GSpintax.spin('I {like|love|hate|prefer not to eat} spaghetti and {meatballs|meat sauce|cheese|beer}')`
+
+Example outputs:
+
+I love spaghetti and cheese
+I hate spaghetti and meatballs
+I like spaghetti and meat sauce
+I hate spaghetti and beer
+I like spaghetti and meatballs
+
+## License
+This code is released under the MIT License. See LICENSE.txt.
+
+
