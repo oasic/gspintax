@@ -7,15 +7,20 @@ This method can be simply copied into your existing project as a simple way to a
 
 ## Example Usage
 
-`println GSpintax.spin('I {like|love|hate|prefer not to eat} spaghetti and {meatballs|meat sauce|cheese|beer}')`
+```
+def spintax = 'I {like|love|hate|prefer not to eat} spaghetti and {meatballs|meat sauce|cheese|beer}'
+println GSpintax.spin(spintax)
+```
 
 Example outputs:
 
+```
 I love spaghetti and cheese
 I hate spaghetti and meatballs
 I like spaghetti and meat sauce
 I hate spaghetti and beer
 I like spaghetti and meatballs
+```
 
 ## License
 This code is released under the MIT License. See LICENSE.txt.
