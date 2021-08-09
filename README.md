@@ -3,7 +3,7 @@
 
 *Groovy spintax parser for language generation*
 
-This method can be simply copied into your existing project as a simple way to add spintax parsing or spinning to your application. While spinning has a negative connotation due to its usage in spam, it's very useful for quickly generating many permutations of text for projects involving language generation. 
+This entire Groovy class can simply be copied into your existing project as an easy way to add spintax parsing or spinning to your application. While spinning has a negative connotation due to its usage in spam, it's very useful for quickly generating many permutations of text for projects involving language generation. 
 
 ## Example Usage
 
