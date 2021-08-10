@@ -22,6 +22,12 @@ I hate spaghetti and beer
 I like spaghetti and meatballs
 ```
 
+## Acknowledegments
+* [Sentence Stack](https://sentencestack.com/)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+* [Groovy Lang](https://groovy-lang.org/) - IMHO, the most underrated programming language
+
 ## License
 This code is released under the MIT License. See LICENSE.txt.
 
